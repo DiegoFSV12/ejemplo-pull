@@ -1,2 +1,2 @@
 # ejemplo-pull
-aaaaaaaaaaaaaaaaaaaañañin
+Ejemplo de como usar un pull
